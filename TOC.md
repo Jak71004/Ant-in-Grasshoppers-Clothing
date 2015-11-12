@@ -1,0 +1,26 @@
+Ant in Grasshopper's Clothing
+1. Foreward - Aesop's fable of the ant and the grasshopper
+2. Personal Finance
+  a. Manage you money - Monthly budget
+  b. Money enables 
+    i. you to be able to afford to eat healthy
+    ii. you to be able to afford to buy exercise equipment/gym membership
+    iii. you to be able to afford to do relationship building with friends and family
+3. Diet 
+  a. Eat healthy so your body is able to work out
+  b. Eat healthy to help brain funtion
+4. Exercise
+  a. Fit people look more responsible
+  b. Fit people earn more
+  c. Fit people are more optomistic 
+  d. Fit people handle stress better
+5. Personal Life
+  a. Support system at home positively effects attitude, confidence, and drive
+  b. Teaches you how to relate with people
+6. Work Life
+  a. Have a clear goal for 5 yrs, 2 yrs, 6mo
+  b. Work the side hustle
+  c. Teach something
+7. Conclusion
+
+Consider the format of the chapters to explain the why then the how.
