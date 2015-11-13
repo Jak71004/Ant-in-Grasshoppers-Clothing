@@ -1,11 +1,12 @@
 Ant in Grasshopper's Clothing
 1. Foreward - Aesop's fable of the ant and the grasshopper
 2. Personal Finance
-  a. Manage you money - Monthly budget
-  b. Money enables 
+  a. Manage you money -> This is the "WHAT"
+  b. Money enables -> This is the "WHY"
     i. you to be able to afford to eat healthy
     ii. you to be able to afford to buy exercise equipment/gym membership
     iii. you to be able to afford to do relationship building with friends and family
+  c. Zero-based budget and Envelope system -> This is the "HOW"
 3. Diet 
   a. Eat healthy so your body is able to work out
   b. Eat healthy to help brain funtion
